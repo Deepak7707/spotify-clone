@@ -1,2 +1,2 @@
 # spotify-clone
-This is the html for spotify clone
+This is spotify clone
